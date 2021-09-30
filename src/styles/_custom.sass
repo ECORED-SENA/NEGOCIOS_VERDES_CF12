@@ -1,0 +1,560 @@
+.banner-principal__componente h1
+  color: #6F7302 !important
+
+.banner-principal__img
+  animation-name: spin
+  animation-duration: 10.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes spin
+  0%
+    transform: rotate(0deg) 
+    transform: translatey(0px)
+    transform: translatex(0px)           
+  25%
+    transform: rotate(0deg)
+    transform: translatex(16px)
+  50%
+    transform: rotate(0deg)
+    transform: translatex(0px)           
+  60%
+    transform: translatey(0px)    
+  75%
+    transform: rotate(0deg)
+    transform: translatex(16px)   
+  100%
+    transform: rotate(0deg)
+    transform: translatey(0px)
+    transform: translatex(0px)   
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto    
+
+.BorTit
+  border-left: 5px solid #529AD9
+  padding: 6px 0px 6px 10px     
+  
+.BorTit_table
+  border-left: 5px solid #EA3065
+  padding: 6px 0px 6px 10px    
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 30px
+      height: 30px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #F98473
+      span 
+        color: white
+        font-weight: 700
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#BF3976
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 20px
+      margin-right: 0.65rem
+      margin-top: 4px
+      img 
+        width: 20px
+        vertical-align: middle
+        
+  &__txt 
+    p:first-child,
+    h4:first-child 
+      margin-top: 0px  
+
+.row-bg-color
+  background-color:  #F4F3F0  
+
+.row-bg-color-1
+  background-color: #E5DEC1 
+  border-radius: 20px  
+
+.row-bg-color-2
+  background-color: #F7F5ED
+
+.row-bg-color-3
+  background-color: #9ACBF5  
+
+.bg-col-1 
+  background-color: #9ACBF5
+
+.bg-col-1-1 
+  background-color: #FFFFFF
+  border-radius: 20px
+
+.p-color-3
+  background-color: #CFE7FC 
+  border-radius: 20px  
+  &:after
+    content: ""
+    display: block
+    top: 35%
+    left: 47%
+    width: 90px
+    height: 90px
+    transform: rotate(45deg)
+    position: absolute
+    background: #CFE7FC 
+    z-index: -1 
+
+.p-color-4
+  background-color: #CFE7FC 
+  border-radius: 20px  
+  &:after
+    content: ""
+    display: block
+    top: 35%
+    left: 45%
+    width: 90px
+    height: 90px
+    transform: rotate(45deg)
+    position: absolute
+    background: #CFE7FC 
+    z-index: -1 
+
+.p-color-5
+  background-color: #CFE7FC 
+  border-radius: 20px  
+  &:after
+    content: ""
+    display: block
+    top: 38%
+    left: 47%
+    width: 90px
+    height: 90px
+    transform: rotate(45deg)
+    position: absolute
+    background: #CFE7FC 
+    z-index: -1 
+
+.p-color-6
+  background-color: #CFE7FC 
+  border-radius: 20px  
+  &:after
+    content: ""
+    display: block
+    top: 36%
+    left: 45%
+    width: 90px
+    height: 90px
+    transform: rotate(45deg)
+    position: absolute
+    background: #CFE7FC 
+    z-index: -1             
+
+.p-color-7
+  background-color: #CFE7FC 
+  border-radius: 20px 
+
+.col-m-top
+  margin-top: -3em 
+
+.col-sup-1
+  z-index: 1     
+
+.img-m-top
+  margin-top: -2em
+
+.row-m-top
+  margin-top: 5em   
+
+.col-color-1
+  background-color: #E2E4B2
+
+.col-color-2
+  background-color: #F7F5EC 
+
+.col-color-3
+  background-color: #F3F9FF 
+
+.col-color-4
+  background-color: #F7F5ED   
+
+.hr
+  border: 2px solid #C6D2B1 
+
+.white-border
+  border: 5px solid white 
+
+.white-border-1
+  border: 10px solid white   
+
+.bg-img 
+  background-image: url(../assets/ilustraciones/img4.svg)
+  margin-inline: -3.2rem
+  background-repeat: no-repeat
+  background-size: cover 
+
+.bg-img-1 
+  background-image: url(../assets/ilustraciones/img30.svg)
+  background-repeat: no-repeat
+  background-attachment: fixed
+  margin-top: 5em    
+
+.tarjeta--azul
+  background-color: #E4E2D9 !important
+.slyder-a__bullets__item--active
+  background-color: #A0A603 !important
+
+.slyder-a__bullets
+  bottom: -10px !important
+
+.p-color-1
+  background-color: white
+  border-radius: 20px
+
+.yoyo1 
+  animation: yoyo1 3.0s
+  animation-iteration-count: infinite
+
+@keyframes yoyo1 
+  0%  
+    transform: translatey(0px)
+  50%  
+    transform: translatey(-3px)
+  100%  
+    transform: translatey(0px) 
+
+.yoyo 
+  animation: yoyo 3.0s
+  animation-iteration-count: infinite
+
+@keyframes yoyo 
+  0%  
+    transform: translatex(0px)
+  50%  
+    transform: translatex(-6px)
+  100%  
+    transform: translatex(0px)    
+
+.container-1 
+  display: flex
+  justify-content: center
+  align-items: center
+
+.thumbnails 
+  display: flex
+  flex-direction: column
+  line-height: 0 
+  cursor: pointer 
+  li 
+    flex: auto
+  a 
+    display: block  
+  img 
+    //width: 30vmin
+    height: 22vmin
+    //object-fit: cover
+    //object-position: top
+    border: 2px solid #529AD9
+
+
+.slides 
+  overflow: hidden
+  width: 75vmin
+  height: 100vmin  
+  li 
+    width: 75vmin
+    height: 100vmin
+    position: absolute
+    z-index: 1  
+  img 
+    object-fit: cover
+    object-position: top
+
+.slides li:target 
+  z-index: 3
+  -webkit-animation: slide 1s 1
+
+.slides li:not(:target) 
+  -webkit-animation: hidden 1s 1
+
+@keyframes slide 
+  0% 
+    transform: translatex(-100%)
+  
+  100% 
+    transform: translatex(0%)
+
+@keyframes hidden 
+  0% 
+    z-index: 2
+  
+  100% 
+    z-index: 2
+  
+.beat
+  animation: beat 1.5s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate  
+
+@keyframes beat 
+  0%  
+    transform: scale(1.0)
+  50%  
+    transform: scale(1.02)
+  100%  
+    transform: scale(1.0)  
+
+.beat-1:hover
+  animation: beat-1 1.5s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate  
+
+@keyframes beat-1 
+  0%  
+    transform: scale(1.15)
+  50%  
+    transform: scale(1.15)
+  100%  
+    transform: scale(1.15)    
+
+.img-infografica.color-secundario .img-infografica__item__dot::before
+  background-color: transparent !important   
+.img-infografica.color-secundario .img-infografica__item__dot::after
+  background-color: #6F7302 !important
+.tarjeta.color-acento-botones
+  border: 3px solid #6F7302 !important
+.img-infografica__card
+  z-index: 4  
+
+.img-flot
+  margin-top: -20em
+  
+.img-flot-1
+  margin-top: -6em
+
+.num-top
+  margin-top: -3em
+  margin-left: 1em 
+
+
+.button-sv.gris
+  background-image: url(../assets/ilustraciones/img48.svg)
+  background-repeat: no-repeat
+  background-size: cover 
+
+.button-sv.gris.color-acento-contenido
+  &:hover
+    background-color: mix($color-acento-contenido, #FFF, 50%)
+    color: $white
+  &.active
+    background-color: $color-acento-contenido
+    color: $white 
+
+.button-sv.gris.color-acento-contenido
+  &:hover
+    background-color: mix($color-acento-contenido, #FFF, 50%)
+    color: $white
+  &.active
+    background-color: $color-acento-contenido
+    color: $white   
+
+
+.close-CSS 
+  background-image: url(../assets/ilustraciones/img48.svg)
+  background-size: cover
+  height: 184px  
+  width: 184px
+  background-color: transparent    
+      
+.close-CSS:hover 
+  background-image: url(../assets/ilustraciones/img49.svg)
+  background-size: cover
+  height: 184px  
+  width: 184px
+  background-color: transparent 
+
+.close-CSS1 
+  background-image: url(../assets/ilustraciones/img51.svg)
+  background-size: cover
+  height: 184px  
+  width: 184px
+  background-color: transparent    
+      
+.close-CSS1:hover 
+  background-image: url(../assets/ilustraciones/img52.svg)
+  background-size: cover
+  height: 184px  
+  width: 184px
+  background-color: transparent 
+
+.close-CSS2 
+  background-image: url(../assets/ilustraciones/img53.svg)
+  background-size: cover
+  height: 184px  
+  width: 184px
+  background-color: transparent    
+      
+.close-CSS2:hover 
+  background-image: url(../assets/ilustraciones/img54.svg)
+  background-size: cover
+  height: 184px  
+  width: 184px
+  background-color: transparent 
+
+.close-CSS3 
+  background-image: url(../assets/ilustraciones/img55.svg)
+  background-size: cover
+  height: 184px  
+  width: 184px
+  background-color: transparent    
+      
+.close-CSS3:hover 
+  background-image: url(../assets/ilustraciones/img56.svg)
+  background-size: cover
+  height: 184px  
+  width: 184px
+  background-color: transparent 
+
+.close-CSS4 
+  background-image: url(../assets/ilustraciones/img57.svg)
+  background-size: cover
+  height: 184px  
+  width: 184px
+  background-color: transparent    
+      
+.close-CSS4:hover 
+  background-image: url(../assets/ilustraciones/img58.svg)
+  background-size: cover
+  height: 184px  
+  width: 184px
+  background-color: transparent         
+
+.imagen
+  cursor: pointer
+  padding-top: 10em  
+.info
+  position: absolute
+  overflow: hidden
+  max-width: 292px
+  min-width: 350px
+  background-color: #DBFAFA
+  opacity: 0
+  transition: opacity .1s
+  padding: 1rem
+  border-radius: 15px
+  border: 3px solid white
+  z-index: 4
+  margin-left: -6em
+
+.imagen:hover .info
+  opacity: 10
+          
+
+.bg-img-2
+  background-image: url(../assets/ilustraciones/img50.png)
+  background-repeat: no-repeat
+  background-size: cover 
+
+.img-margin 
+  margin-top: 20em
+  margin-bottom: 30em  
+
+.info-movil-bg
+  border: 2px solid #529AD9   
+  border-radius: 10px
+
+.img-col-bg-1
+  background-color: #ECEDD6
+  border: 10px solid white
+  border-radius: 20px 
+
+.img-col-bg-2
+  background-color: #F7F5EC
+  border: 10px solid white
+  border-radius: 20px  
+
+.img-col-bg-3
+  background-color: white
+  border: 10px solid white
+  border-radius: 20px  
+
+.img-col-bg-4
+  background-color:#F7F5ED  
+
+.col-sup-2
+  margin-top: -9em
+  z-index: 1 
+
+.border-col-card
+  border: 16px solid #F7F5ED      
+
+.tarjeta.color-acento-botones--borde
+  background-color: #FCF7E1  
+  border: 4px solid #FCF7E1 
+
+.tabs-a__tab
+  background-color:#a1a60338 !important
+.tabs-a.color-primario .tabs-a__tab__selected
+  background-color: #A0A603 !important 
+
+.cajon.color-primario
+  background-color:#a1a60338 !important
+
+.tabla-a thead
+  background-color: #6F7302 !important
+  color: white !important
+  border-top: 0px solid !important
+  border: 1px solid #D0D0D0 !important
+
+.c1
+  background-color: #D8D9BC 
+.c2
+  background-color: #F7F5EC      
+
+.pasos-a.color-acento-contenido .pasos-a__circle div
+  color: white !important
+.pasos-a.color-acento-contenido .pasos-a__circle
+  animation: beat-pasos 2.5s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate  
+
+@keyframes beat-pasos 
+  0%  
+    transform: scale(1.0)
+  50%  
+    transform: scale(1.1)
+  100%  
+    transform: scale(1.0)      
+
+.teme-8-col-1
+  background-color: #ECEDD6
+  border-radius: 20px
+
+.teme-8-col-2
+  background-color: #F7F5EC
+  border-radius: 20px
+
+.teme-8-marg-img
+  margin-left: 3em !important  
+
+.z-col-sup-8
+  z-index: 2  
