@@ -26,12 +26,12 @@
     p(data-aos="fade-down").mt-5 Con respecto a lo anterior, se puede indicar que es un libro de planes donde se resumen los objetivos, campañas de mercado estrategias y promoción de ventas.
 
     .row.justify-content-center.align-items-center.row-bg-color-1.p-5.mt-5(data-aos="fade-left")
-      .col-lg-12
-        p.text-center #[b A continuación, se conocerán los elementos que debe tener una campaña publicitaria: ]
-        ImagenInfografica.color-secundario
+      .col-lg-12.mb-5.pb-4.d-none.d-lg-block 
+        p.text-center(data-aos="fade-up") #[b A continuación, se conocerán los elementos que debe tener una campaña publicitaria: ]
+        ImagenInfografica.color-secundario.mt-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/ilustraciones/img21.svg', alt='')
+              img.mb-5(data-aos="zoom-in")(src='@/assets/ilustraciones/img21.svg', alt='')
 
           .tarjeta.color-acento-botones.p-3(x="6.6%" y="36%")
             .h5.mb-2 Descripción del producto o servicio
@@ -63,15 +63,65 @@
 
           .tarjeta.color-acento-botones.p-3(x="87.7%" y="39.4%")
             .h5.mb-2 Medición de la eficacia publicitaria
-            p Aquí debemos analizar que los objetivos trazados anteriormente obtengan los resultados esperados.                                                                   
+            p Aquí debemos analizar que los objetivos trazados anteriormente obtengan los resultados esperados.
+      .col-lg-10.d-block.d-lg-none
+        p.text-center.mb-4(data-aos="fade-up") #[b A continuación, se conocerán los elementos que debe tener una campaña publicitaria: ]      
+        .row.justify-content-center.align-items-center(data-aos="fade-left")
+          .col-2.d-block.d-lg-none
+            img.img-t.img-a.beat(src='@/assets/ilustraciones/img91.svg', alt='')
+          .col-10.d-block.d-lg-none.info-movil-bg-2.p-3.mb-0
+            .h5.mb-2 Descripción del producto o servicio
+            p.mb-0 Es donde definimos que se va a comercializar. Debemos hacer un historial detallado teniendo en cuenta el comportamiento del mercado.   
 
-        .row.justify-content-start.align-items-center
-          .col-lg-4.bg-col-1-1.p-4.col-m-top.d-none.d-lg-block.col-sup-1 
-            p Descripción del producto o servicio. Es donde definimos que se va a comercializar. Debemos hacer un historial detallado teniendo en cuenta el comportamiento del mercado.  
+        .row.justify-content-center.align-items-center.mt-4(data-aos="fade-right")
+          .col-2.d-block.d-lg-none
+            img.img-t.img-a.beat(src='@/assets/ilustraciones/img92.svg', alt='')
+          .col-10.d-block.d-lg-none.info-movil-bg-2.p-3.mb-0
+            .h5.mb-2 Establecer objetivos
+            p.mb-0 Como ya sabemos, nuestra finalidad es que nos conozcan, empiecen a consumir el producto e incrementar las ventas. Pero como todo no pueden ser ventas, tendremos en cuenta otras variables a la hora de trazar los objetivos, debemos ser tácticos para llamar la atención, informar y recordar; y estratégicos para hacer que la frecuencia de la compra aumente y sea rentable. 
 
-        .row.justify-content-start.align-items-center.mt-4
-          .col-lg-4.bg-col-1-1.p-4.d-block.d-lg-none 
-            p Descripción del producto o servicio. Es donde definimos que se va a comercializar. Debemos hacer un historial detallado teniendo en cuenta el comportamiento del mercado.                   
+        .row.justify-content-center.align-items-center.mt-4(data-aos="fade-left")
+          .col-2.d-block.d-lg-none
+            img.img-t.img-a.beat(src='@/assets/ilustraciones/img93.svg', alt='')
+          .col-10.d-block.d-lg-none.info-movil-bg-2.p-3.mb-0
+            .h5.mb-2 Definición del público objetivo
+            p.mb-0 Es fundamental definir a quién nos vamos a dirigir, debemos ser cuidadosos al escoger el tipo de personas que vamos a impactar teniendo en cuenta variables como el sexo, nivel de ingreso, condiciones sociales, etc.  
+
+        .row.justify-content-center.align-items-center.mt-4(data-aos="fade-right")
+          .col-2.d-block.d-lg-none
+            img.img-t.img-a.beat(src='@/assets/ilustraciones/img94.svg', alt='')
+          .col-10.d-block.d-lg-none.info-movil-bg-2.p-3.mb-0
+            .h5.mb-2 Determinación del ámbito geográfico
+            p.mb-0 Dimensionar el ámbito de la campaña, los cuales pueden ser locales, regionales, nacionales e internacionales.  
+
+        .row.justify-content-center.align-items-center.mt-4(data-aos="fade-left")
+          .col-2.d-block.d-lg-none
+            img.img-t.img-a.beat(src='@/assets/ilustraciones/img95.svg', alt='')
+          .col-10.d-block.d-lg-none.info-movil-bg-2.p-3.mb-0
+            .h5.mb-2 Diseño del mensaje
+            p.mb-0 En este punto debemos tener en cuenta el contenido, ya que puede ser informativo, moral, emocional, etc., contener una base de argumentos sólidos y llevar mucha creatividad.  
+
+        .row.justify-content-center.align-items-center.mt-4(data-aos="fade-right")
+          .col-2.d-block.d-lg-none
+            img.img-t.img-a.beat(src='@/assets/ilustraciones/img96.svg', alt='')
+          .col-10.d-block.d-lg-none.info-movil-bg-2.p-3.mb-0
+            .h5.mb-2 Plan de medios
+            p.mb-0 Es hora de definir qué medios vamos a usar para difundir el mensaje, existen diferentes medios de publicidad dentro de los que encontramos, redes sociales, publicidad móvil, publicidad con video, publicidad impresa, publicidad por radio, publicidad por teléfonos, etc. 
+
+        .row.justify-content-center.align-items-center.mt-4(data-aos="fade-left")
+          .col-2.d-block.d-lg-none
+            img.img-t.img-a.beat(src='@/assets/ilustraciones/img97.svg', alt='')
+          .col-10.d-block.d-lg-none.info-movil-bg-2.p-3.mb-0
+            .h5.mb-2 Presupuesto
+            p.mb-0 Es indispensable saber el recurso humano y económico para poder ejecutarlo.  
+
+        .row.justify-content-center.align-items-center.mt-4(data-aos="fade-right")
+          .col-2.d-block.d-lg-none
+            img.img-t.img-a.beat(src='@/assets/ilustraciones/img98.svg', alt='')
+          .col-10.d-block.d-lg-none.info-movil-bg-2.p-3.mb-0
+            .h5.mb-2 Medición de la eficacia publicitaria
+            p.mb-0 Aquí debemos analizar que los objetivos trazados anteriormente obtengan los resultados esperados. 
+
 
     separador
     #t_2_1.titulo-segundo(data-aos="fade-right")

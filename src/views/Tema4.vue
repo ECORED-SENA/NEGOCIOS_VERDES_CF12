@@ -58,7 +58,7 @@
 
             .row.justify-content-center.align-items-center
               .col-lg-10.d-none.d-lg-block
-                img.img-t.img-a.yoyo1(src='@/assets/ilustraciones/img45.svg', alt='')
+                img.img-t.img-a.yoyo1(src='@/assets/ilustraciones/img45_1.svg', alt='')
                 .row.justify-content-center.align-items-center.my-4
                   .col-lg-12.p-color-1.p-3
                     p.mt-4 #[b Papelería corporativa.] Toda información impresa como los flyer, folletos y bruchures.  
@@ -120,7 +120,7 @@
     p(data-aos="fade-down").mt-5 Ejemplos de identidad corporativa.
     img.img-t.img-a.mt-5(data-aos="flip-down")(src='@/assets/ilustraciones/img47.png', alt='')
 
-    h4(data-aos="fade-right") ¿Cómo diseñar la identidad corporativa de la empresa?
+    h4(data-aos="fade-right").mt-5 ¿Cómo diseñar la identidad corporativa de la empresa?
     p(data-aos="fade-down") Después de todo lo mencionado, se debe tener en cuenta lo siguiente:
 
     .row.justify-content-center.align-items-center.bg-img-2.mt-5(data-aos="zoom-in")
