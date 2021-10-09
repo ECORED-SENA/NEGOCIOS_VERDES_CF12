@@ -10,7 +10,7 @@
             img.yoyo(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo(data-aos="fade-left")
-          h2 Actividad didáctica: #[i marketing] test.
+          h2 #[i Marketing test]
         p.mb-4(data-aos="fade-down") Apreciado y apreciada aprendiz, a continuación, se encuentra la actividad didáctica denominada Marketing test, la cual le permitirá determinar el grado de apropiación de los contenidos del componente formativo: #[b Portafolio del producto o servicio. ]
 
         .tarjeta.tarjeta--azul.p-3

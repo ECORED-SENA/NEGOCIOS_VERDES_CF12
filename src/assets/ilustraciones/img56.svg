@@ -16,7 +16,7 @@
             <circle cx="19" cy="19" r="18" fill="none"/>
           </g>
         </g>
-        <text id="_4" data-name="4" transform="translate(799 2494)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">4</tspan></text>
+        <path id="Trazado_130613" data-name="Trazado 130613" d="M9.561-5.557h1.445v2.539H9.561V0H6.27V-3.018H.771l-.2-2.012,5.693-9.16v-.029H9.561Zm-5.85,0H6.27V-9.932L6.064-9.6Z" transform="translate(799 2494)" fill="#12263f"/>
         <g id="Fill_Outline" data-name="Fill Outline" transform="translate(765.884 2508.662)">
           <g id="Color" transform="translate(3.22 3.22)">
             <path id="Trazado_127662" data-name="Trazado 127662" d="M12.882,22H61.7a4.882,4.882,0,0,1,4.882,4.882V62.274H8V26.882A4.882,4.882,0,0,1,12.882,22Z" transform="translate(-1.898 1.188)" fill="#e9f1f2"/>

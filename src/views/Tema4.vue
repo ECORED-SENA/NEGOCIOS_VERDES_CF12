@@ -61,7 +61,7 @@
                 img.img-t.img-a.yoyo1(src='@/assets/ilustraciones/img45_1.svg', alt='')
                 .row.justify-content-center.align-items-center.my-4
                   .col-lg-12.p-color-1.p-3
-                    p.mt-4 #[b Papelería corporativa.] Toda información impresa como los flyer, folletos y bruchures.  
+                    p.mt-4 #[b Papelería corporativa.] Toda información impresa como los #[i flyer], folletos y #[i bruchures].  
             .row.justify-content-center.align-items-center
               .col-lg-10.d-none.d-lg-block
                 img.img-t.img-a.yoyo1(src='@/assets/ilustraciones/img46.svg', alt='')
@@ -107,9 +107,9 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
-        img.img-t.img-a(src='@/assets/ilustraciones/img45.svg', alt='')
+        img.img-t.img-a(src='@/assets/ilustraciones/img45_1.svg', alt='')
       .col-8.d-block.d-lg-none.mt-5 
-        p #[b Papelería corporativa.] Toda información impresa como los flyer, folletos y bruchures.   
+        p #[b Papelería corporativa.] Toda información impresa como los #[i flyer], folletos y #[i bruchures].   
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
@@ -134,7 +134,7 @@
           p.p-3.mb-0 #[b Crear una identidad visual y corporativa]<br>Es ilustrar gráficamente la identidad de la empresa, debe ser un diseño estratégico que impacte y que cause emociones.        
       .col-lg-2.d-none.d-lg-block(data-aos="fade-down").img-margin.button.close-CSS2.imagen.mx-3
         .info.mt-5
-          p.p-3.mb-0 #[b Diseñar un manual de identidad corporativa]<br>Diseñar un documento que sea coherente debe llevar todo tipo de soportes para identificar visualmente la empresa.
+          p.p-3.mb-0 #[b Diseñar un manual de identidad corporativa]<br>Diseñar un documento que sea coherente, debe llevar todo tipo de soportes para identificar visualmente la empresa.
         
       .col-lg-2.d-none.d-lg-block(data-aos="fade-up").img-margin.button.close-CSS3.imagen.mx-3
         .info.mt-5
@@ -142,7 +142,7 @@
         
       .col-lg-2.d-none.d-lg-block(data-aos="fade-down").img-margin.button.close-CSS4.imagen.mx-3          
         .info.mt-5
-          p.p-3.mb-0 #[b Cuidar la reputación online]<br>Los sitios web y las redes sociales son herramientas muy importantes por el impacto que causan, por esto debemos cuidarnos de los malos comentarios para no causar referencias negativas.
+          p.p-3.mb-0 #[b Cuidar la reputación #[i online]]<br>Los sitios web y las redes sociales son herramientas muy importantes por el impacto que causan, por esto debemos cuidarnos de los malos comentarios para no causar referencias negativas.
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
@@ -160,7 +160,7 @@
       .col-4.d-block.d-lg-none.mt-5
         img.img-t.img-a.yoyo1(src='@/assets/ilustraciones/img54.svg', alt='')
       .col-8.d-block.d-lg-none.mt-5
-        p.info-movil-bg.p-3.mb-0 #[b Diseñar un manual de identidad corporativa]<br>Diseñar un documento que sea coherente debe llevar todo tipo de soportes para identificar visualmente la empresa.      
+        p.info-movil-bg.p-3.mb-0 #[b Diseñar un manual de identidad corporativa]<br>Diseñar un documento que sea coherente, debe llevar todo tipo de soportes para identificar visualmente la empresa.      
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
@@ -172,7 +172,7 @@
       .col-4.d-block.d-lg-none.mt-5
         img.img-t.img-a.yoyo1(src='@/assets/ilustraciones/img58.svg', alt='')
       .col-8.d-block.d-lg-none.mt-5
-          p.info-movil-bg.p-3.mb-0 #[b Cuidar la reputación online]<br>Los sitios web y las redes sociales son herramientas muy importantes por el impacto que causan, por esto debemos cuidarnos de los malos comentarios para no causar referencias negativas.                              
+          p.info-movil-bg.p-3.mb-0 #[b Cuidar la reputación #[i online]]<br>Los sitios web y las redes sociales son herramientas muy importantes por el impacto que causan, por esto debemos cuidarnos de los malos comentarios para no causar referencias negativas.                              
 
     p(data-aos="fade-down").mt-5 Para concluir, una buena identidad corporativa generará diversos beneficios para la empresa, como ser visualmente diferente que la competencia, aumentar la reputación generando más confianza, mayor posición de la marca ante el consumidor, hacer que las comunicaciones tengan más coherencia, mejorar el reconocimiento ante el público y, por último, aumentar el valor de la marca.
 

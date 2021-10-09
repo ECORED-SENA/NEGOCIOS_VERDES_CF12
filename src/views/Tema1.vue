@@ -16,7 +16,7 @@
         h5.mt-3 Importancia del portafolio de servicio
         .hr
       .col-lg-9.col-color-1.white-border(data-aos="fade-right")
-        p.p-5.mb-0 Toda empresa debe contar con un portafolio de productos para que los clientes conozcan el trabajo que se realiza, un portafolio hecho con completa claridad permite crear estrategias de marketing adecuadas para que las ventas aumenten. Este documento no solo da a conocer lo que se vende, sino también la calidad del trabajo, con el objetivo de buscar reconocimiento. La información puede estar plasmada en hojas o en un software de presentación digital como PowerPoint o en una página web.
+        p.p-5.mb-0 Toda empresa debe contar con un portafolio de productos para que los clientes conozcan el trabajo que se realiza, un portafolio hecho con completa claridad permite crear estrategias de #[i marketing] adecuadas para que las ventas aumenten. Este documento no solo da a conocer lo que se vende, sino también la calidad del trabajo, con el objetivo de buscar reconocimiento. La información puede estar plasmada en hojas o en un #[i software] de presentación digital como PowerPoint o en una página web.
 
     .row.justify-content-center.align-items-center.mt-4
       .col-lg-3(data-aos="fade-left")
@@ -25,16 +25,16 @@
         .hr
       .col-lg-9.col-color-2.white-border(data-aos="fade-right")
         p.p-5.mb-0 Un buen portafolio debe tener 
-          span(style='background-color: #E5DEC1') información directa y,
-          span(style='background-color: #F7F5EC') sobre todo, causar impacto para sobresalir ante la competencia, además, se debe llegar al cliente de manera directa, incluyendo precios 
-          span(style='background-color: #E5DEC1') atractivos y brindando claridad a toda hora. 
+          span(style='background-color: #E5DEC1') #[b información directa] y,
+          span(style='background-color: #F7F5EC') sobre todo, causar impacto para sobresalir ante la competencia, además, se debe llegar al cliente de manera directa, incluyendo #[b precios] 
+          span(style='background-color: #E5DEC1') #[b atractivos y brindando claridad] a toda hora. 
           span(style='background-color: #F7F5EC') Por ser esta la carta de presentación de toda empresa, es primordial dejar un recordatorio a los clientes.
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-right")
       .col-12.bg-img.p-5.mt-5 
         .row(data-aos="flip-down")       
           .col-lg-6.my-5
-            p(data-aos="fade-down").my-5 El diseño es el reto más grande al que se enfrentan las empresas sin importar al público al cual se enfocan, por lo que aconseja que lo confeccione una persona con conocimiento de imagen y tipografía para causar una impresión adecuada; ya que el objetivo es reflejar la imagen para despertar interés, se recomienda incluirlo a la web para añadir videos y animaciones que hacen mejorar la herramienta y causar mejores sentimientos.
+            p(data-aos="fade-down").my-5 El diseño es el reto más grande al que se enfrentan las empresas sin importar al público al cual se enfocan, por lo que se aconseja que lo confeccione una persona con conocimiento de imagen y tipografía para causar una impresión adecuada; ya que el objetivo es reflejar la imagen para despertar interés, se recomienda incluirlo a la web para añadir videos y animaciones que hacen mejorar la herramienta y causar mejores sentimientos.
 
     separador
     #t_1_1.titulo-segundo(data-aos="fade-right")
@@ -203,8 +203,8 @@
       .col.d-block.d-lg-none.mt-5
         h4 Información de contacto
         p.mb-0 Es donde se cierra el portafolio, es el sitio destinado para plasmar la información del contacto donde se incluyen números de teléfonos, dirección de la empresa, sitio web, correos electrónicos y las redes sociales si las tiene. Esto por si alguien se interesa en los servicios ofrecidos se contacte por alguno de los medios ya mencionados. 
-
-    .BorTit.mt-5(data-aos="fade-left") #[b Figura 1] <br> <i> Ejemplo de portafolio de servicios</i>
+    p(data-aos="fade-down").mt-5 A continuación, se indica un ejemplo de portafolio de productos y servicios. 
+    .BorTit.mt-5(data-aos="fade-left") #[b Figura 1] <br> Ejemplo de portafolio de servicios
     .row.justify-content-center.align-items-center
       .col-12.d-block.d-lg-none
         img.img-t.img-a.mt-5(data-aos="fade-right")(src='@/assets/ilustraciones/img15.svg', alt='')

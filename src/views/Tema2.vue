@@ -7,7 +7,7 @@
         span 2
       h1 Campaña promocional
 
-    p(data-aos="fade-down") Se puede definir como un proceso estratégico de gran importancia para posicionar el producto en el mercado y mezclándose con estrategias adecuadas de marketing. Además, se logrará la inclinación de compra hacia el producto, así como la identificación de marca.
+    p(data-aos="fade-down") Se puede definir como un proceso estratégico de gran importancia para posicionar el producto en el mercado y mezclándose con estrategias adecuadas de #[i marketing]. Además, se logrará la inclinación de compra hacia el producto, así como la identificación de marca.
 
     .row.justify-content-between.align-items-center.mt-5
       .col-lg-2(data-aos="fade-left")
@@ -19,12 +19,12 @@
       
     .row.justify-content-start.align-items-center.mt-5
       .col-lg-8(data-aos="fade-right")
-        p.mb-0 De otra parte, en un plan de campaña se resume la situación en el mercado y las estrategias y tácticas para las áreas primarias de creatividad y medios, así como otras áreas de comunicación de mercadotecnia de promoción de ventas, mercadotecnia directa y relaciones públicas; este plan de campaña se debe exponer al cliente en una presentación de negocios formal (Elisea, 2003).
+        p.mb-0 De otra parte, en un plan de campaña se resume la situación en el mercado y las estrategias y tácticas para las áreas primarias de creatividad y medios, así como otras áreas de comunicación, de mercadotecnia, de promoción, de ventas, mercadotecnia directa y relaciones públicas; este plan de campaña se debe exponer al cliente en una presentación de negocios formal (Elisea, 2003).
       .col-lg-3.my-3(data-aos="fade-left")      
         img.img-.yoyo1(src='@/assets/ilustraciones/img20.svg', alt='')
 
-    p(data-aos="fade-down").mt-5 Con respecto a lo anterior, se puede indicar que es un libro de planes donde se resumen los objetivos, campañas de mercado estrategias y promoción de ventas.
-
+    p(data-aos="fade-down").mt-5 #[b Con respecto a lo anterior, se puede indicar que es un libro de planes donde se resumen los objetivos, campañas de mercado, estrategias y promoción de ventas.]
+    h4(data-aos="fade-down").mt-5 Elementos de la campaña publicitaria 
     .row.justify-content-center.align-items-center.row-bg-color-1.p-5.mt-5(data-aos="fade-left")
       .col-lg-12.mb-5.pb-4.d-none.d-lg-block 
         p.text-center(data-aos="fade-up") #[b A continuación, se conocerán los elementos que debe tener una campaña publicitaria: ]
@@ -35,7 +35,7 @@
 
           .tarjeta.color-acento-botones.p-3(x="6.6%" y="36%")
             .h5.mb-2 Descripción del producto o servicio
-            p Es donde definimos que se va a comercializar. Debemos hacer un historial detallado teniendo en cuenta el comportamiento del mercado.
+            p Es donde definimos qué se va a comercializar. Debemos hacer un historial detallado teniendo en cuenta el comportamiento del mercado.
 
           .tarjeta.color-acento-botones.p-3(x="17.1%" y="51%")
             .h5.mb-2 Establecer objetivos
@@ -71,7 +71,7 @@
             img.img-t.img-a.beat(src='@/assets/ilustraciones/img91.svg', alt='')
           .col-9.d-block.d-lg-none.info-movil-bg-2.p-3.mb-0
             .h5.mb-2 Descripción del producto o servicio
-            p.mb-0 Es donde definimos que se va a comercializar. Debemos hacer un historial detallado teniendo en cuenta el comportamiento del mercado.   
+            p.mb-0 Es donde definimos qué se va a comercializar. Debemos hacer un historial detallado teniendo en cuenta el comportamiento del mercado.   
 
         .row.justify-content-center.align-items-center.mt-4(data-aos="fade-right")
           .col-3.d-block.d-lg-none.px-0.mx-0
@@ -134,27 +134,27 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: CF012_2.1_Tipos de campaña publicitaria.
-    h4(data-aos="fade-right").mt-5 No Comerciales
+    h4(data-aos="fade-right").mt-5 No comerciales
     p(data-aos="fade-down") Este tipo de comerciales promueven ideas y/o personas.      
     .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-5.col-color-3.white-border-1.p-0.mx-0(data-aos="fade-right")
         img.img-t.img-a(src='@/assets/ilustraciones/img22.svg', alt='')
         h5.px-5.mt-5 Propaganda: 
-        p.px-5.pb-3 es cuando no hay un interés económico de por medio, es decir, solo se hace para promover ideas, personas e ideologías.  
+        p.px-5.pb-3 Es cuando no hay un interés económico de por medio, es decir, solo se hace para promover ideas, personas e ideologías.  
 
       .col-lg-5.col-color-3.white-border-1.p-0.mx-0(data-aos="fade-left")
         img.img-t.img-a(src='@/assets/ilustraciones/img23.svg', alt='')
         h5.px-5.mt-5 Cívica o de bien público: 
-        p.px-5.pb-3 son hechas por asociaciones, fundaciones y entidades al servicio de la comunidad, son sin ánimo de lucro y buscan  cambiar actitudes masivas con productos no rentables. 
+        p.px-5.pb-3 Son hechas por asociaciones, fundaciones y entidades al servicio de la comunidad, son sin ánimo de lucro y buscan  cambiar actitudes masivas con productos no rentables. 
 
     separador
     #t_2_2.titulo-segundo(data-aos="fade-right")
       h2 2.2 Estructura de una campaña publicitaria 
 
     p(data-aos="fade-down") Cuando se realiza una campaña publicitaria es de suma importancia 
-      span(style='background-color: #E5DEC1') estudiar con profundidad el producto o servicio base,
+      span(style='background-color: #E5DEC1') #[b estudiar con profundidad el producto o servicio base],
         span(style='background-color: white')  conociendo de fondo aspectos como: qué tanto reconocimiento tiene este en el mercado, si es necesario incluir novedades, analizar si se le da una identidad institucional o social. Teniendo en cuenta los aspectos anteriormente mencionados, es más fácil escoger el tipo de campaña adecuada para llegar al público meta. 
-
+    h4.mt-5(data-aos="fade-down") ¿Cómo hacer una campaña promocional?
     .row.justify-content-end.align-items-center.row-bg-color-2.row-m-top.p-4(data-aos="flip-down") 
       .col-lg-7(data-aos="slide-right")
         p.px-5 Al planificar una campaña de promoción, hay que tener en cuenta que esta se compone de tres resultados deseados y de varios pasos para una campaña promocional, a saber:
@@ -162,21 +162,21 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | El mensaje de promoción llega a su público objetivo y la intención.
+            p #[b El mensaje de promoción llega a su público objetivo y la intención.]
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | Su mensaje es entendido por su público.
+            p #[b Su mensaje es entendido por su público.]
           li 
             .lista-ol--cuadro__vineta
               span 3
-            | Su mensaje estimula a los receptores para tomar las acciones oportunas (Ortego, 2021).
+            p #[b Su mensaje estimula a los receptores para tomar las acciones oportunas (Ortego, 2021).]
 
     .row.justify-content-start.align-items-center(data-aos="flip-down") 
       .col-lg-5(data-aos="slide-left").d-none.d-lg-block
           img.img-t.img-a.img-flot.yoyo(src='@/assets/ilustraciones/img24.svg', alt='')       
 
-    p(data-aos="fade-down").mt-5 Para que la planificación de la campaña sea exitosa, es necesario tener en cuenta los siguientes parámetros: 
+    p(data-aos="fade-down").mt-5 #[b Para que la planificación de la campaña sea exitosa, es necesario tener en cuenta los siguientes parámetros:]
 
     .row.justify-content-start.align-items-center.row-bg-color-3.row-m-top.p-5.bg-img-1(data-aos="slide-left")
       .col-lg-12
@@ -237,31 +237,31 @@
             .row.justify-content-center.align-items-center
               .col-lg-12.p-color-6.p-3
                 img.img-t.num-top(src='@/assets/ilustraciones/4.svg', alt='')
-                h5.mt-3 Creación del briefing
+                h5.mt-3 Creación del #[i briefing]
                 p El paso final es la creación del documento que contiene información puntual del producto, población meta, posicionamiento de la marca, distribución geográfica, logística, actividades promocionales y presupuesto. 
 
           .col-lg-5.d-block.d-lg-none
             .row.justify-content-center.align-items-center.mt-5
               .col-lg-12.p-color-7.p-3
                 img.img-t.num-top(src='@/assets/ilustraciones/4.svg', alt='')
-                h5.mt-3 Creación del briefing
+                h5.mt-3 Creación del #[i briefing]
                 p El paso final es la creación del documento que contiene información puntual del producto, población meta, posicionamiento de la marca, distribución geográfica, logística, actividades promocionales y presupuesto.                            
           .col-lg-5.d-none.d-lg-block
             img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img29.svg', alt='')                
 
     separador
     #t_2_3.titulo-segundo(data-aos="fade-right")
-      h2 2.3 Brochure 
-    p(data-aos="fade-down") Es un folleto que contiene la oferta y servicios que ofrece la empresa. Está catalogado como una potente herramienta del marketing versátil que se adapta muy bien a las necesidades del negocio, pues es una forma fácil de llegar a los clientes o posibles clientes.
+      h2 2.3 #[i Brochure] 
+    p(data-aos="fade-down") Es un folleto que contiene la oferta y servicios que ofrece la empresa. Está catalogado como una potente herramienta del #[i marketing] versátil que se adapta muy bien a las necesidades del negocio, pues es una forma fácil de llegar a los clientes o posibles clientes.
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="slide-left")
       .col-lg-5.p-0
         img.img-a(src='@/assets/ilustraciones/img31.svg', alt='') 
       .col-lg-7.col-color-4.p-5
-        p.mb-0 Para que el brochure logre la efectividad que se desea, es necesario incluir información relevante para los clientes, imágenes que resalten datos principales, usar letra especializada que llame la atención del consumidor, así como la forma de distribuir la información de tal manera que no falten datos, además de los datos del contacto de la empresa.
+        p.mb-0 Para que el #[i brochure] logre la efectividad que se desea, es necesario incluir información relevante para los clientes, imágenes que resalten datos principales, usar letra especializada que llame la atención del consumidor, así como la forma de distribuir la información de tal manera que no falten datos, además de los datos del contacto de la empresa.
 
-    h4(data-aos="fade-right").mt-5 Tipos de brochure 
-    p(data-aos="fade-down") Hay diferentes clases de brochure, estos son: 
+    h4(data-aos="fade-right").mt-5 Tipos de #[i brochure] 
+    p(data-aos="fade-down") Hay diferentes clases de #[i brochure], estos son: 
 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-4.col-color-3.white-border-1.p-0.mx-0(data-aos="fade-right")
@@ -282,7 +282,7 @@
     .row.justify-content-center.align-items-stretch.mt-3
       .col-lg-4.col-color-3.white-border-1.p-0.mx-0(data-aos="fade-left")
         img.img-t.img-a(src='@/assets/ilustraciones/img35.svg', alt='')
-        h5.px-5.mt-5 Poming
+        h5.px-5.mt-5 #[i Poming]
         p.px-5.pb-3 Contienen información promocional y suele entregarse en las casas, tiendas o retrovisores de los vehículos. 
 
       .col-lg-4.col-color-3.white-border-1.p-0.mx-0(data-aos="fade-left")
@@ -293,7 +293,7 @@
       .col-lg-4.col-color-3.white-border-1.p-0.mx-0(data-aos="fade-left")
         img.img-t.img-a(src='@/assets/ilustraciones/img37.svg', alt='')
         h5.px-5.mt-5 Hojas volantes
-        p.px-5.pb-3 Son folletos impresos por lado y lado su forma de entrega es mano a mano.  
+        p.px-5.pb-3 Son folletos impresos por lado y lado; su forma de entrega es mano a mano.  
 
 </template>
 

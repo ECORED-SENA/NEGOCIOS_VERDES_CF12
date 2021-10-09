@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Portafolio del producto o servicio',
     descripcionCurso:
-      'Un portafolio es un documento de suma importancia para la presentación de una empresa, porque detalla los productos y los beneficios que se ofertan, es importante resaltar que en los últimos años se han experimentado con la utilización de los portafolios web para mejorar los ingresos económicos de una empresa.',
+      'Un portafolio es un documento de suma importancia para la presentación de una empresa, porque detalla los productos y los beneficios que se ofertan, es importante resaltar que en los últimos años se ha experimentado con la utilización de los portafolios web para mejorar los ingresos económicos de una empresa.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -44,7 +44,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: '2.	Campaña promocional',
+        titulo: 'Campaña promocional',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -162,19 +162,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Alcalde, J. (2016). Comercio electrónico (ecomerce). Economipedia. ',
-      link:
-        'https://economipedia.com/definiciones/comercio-electronico-ecommerce.html',
-    },
-    {
-      referencia:
         'Carazo, J. (2016). Comercio electrónico (ecommerce). Economipedia.com. ',
       link:
         'https://economipedia.com/definiciones/comercio-electronico-ecommerce.html',
     },
     {
       referencia:
-        'Duarte, N. (S.F). Portafolio de servicios de la organización. Web Colegios. ',
+        'Duarte, N. (s.f). Portafolio de servicios de la organización. Web Colegios. ',
       link: 'https://www.webcolegios.com/file/1b983a.pdf',
     },
     {
@@ -273,7 +267,7 @@ export default {
         nombre: 'Jair Roberto Daza Palnecia',
         cargo: 'Experto temático',
         centro:
-          'Centro de la Industria, Empresa y Servicios CIES - Regional Santander',
+          'Centro de la Industria, Empresa y Servicios CIES - Regional Norte de Santander',
       },
       {
         nombre: 'Paola Moya Peralta',
@@ -283,7 +277,7 @@ export default {
       },
       {
         nombre: 'Carolina Coca Salazar',
-        cargo: 'Revisor Metodológico y Pedagógico',
+        cargo: 'Revisora metodológica y pedagógica',
         centro: 'Centro de Diseño y Metrología  - Regional Distrito Capital',
       },
       {
@@ -318,13 +312,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

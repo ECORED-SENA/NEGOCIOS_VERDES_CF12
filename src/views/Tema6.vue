@@ -7,7 +7,7 @@
         span 6
       h1 Herramientas de comercialización
 
-    p(data-aos="fade-down") Para lograr garantizar una buena estrategia de comercialización digital se debe seleccionar muy bien las herramientas de trabajo a usar, por lo que a continuación se nombran algunas de las herramientas más conocidas en el marketing digital:
+    p(data-aos="fade-down") Para lograr garantizar una buena estrategia de comercialización digital se debe seleccionar muy bien las herramientas de trabajo a usar, por lo que a continuación se nombran algunas de las herramientas más conocidas en el #[i marketing] digital:
 
     TabsA.color-primario.mt-5(data-aos="zoom-in")
       .tarjeta.color-acento-botones--borde.p-4(titulo="Página web o blog")
@@ -26,10 +26,10 @@
           .col-lg-4
             img.img-t.img-a.mt-2.yoyo1(src='@/assets/ilustraciones/img73.svg', alt='')
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="E-mail marketing")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="<i>E-mail marketing</i>")
         .row.justify-content-center.align-items-center
           .col-lg-8
-            h4 E-mail marketing
+            h4 <i>E-mail marketing</i>
             p Este es uno de los canales de comunicación de menor costo y con más efectividad, pues genera un contacto mediante el envío de correos electrónicos a una base de datos o contactos, convirtiéndolos en posibles clientes potenciales.                
           .col-lg-4
             img.img-t.img-a.mt-2.yoyo1(src='@/assets/ilustraciones/img74.svg', alt='')
@@ -38,14 +38,14 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             h4 Imágenes de calidad de tus productos
-            p “Una imagen vale más que mil palabras”, razón por la cual se debe cuidar la calidad de las imágenes de los productos, a la hora de vender se dice que todo entra por los ojos, existe gran variedad de aplicaciones y herramientas que permiten presentar de manera más atractiva los productos, por ejemplo: Photoshop, Canva, Snadseep, Vsco, Camera, entre otras.               
+            p “Una imagen vale más que mil palabras”, razón por la cual se debe cuidar la calidad de las imágenes de los productos, a la hora de vender se dice que todo entra por los ojos, existe gran variedad de aplicaciones y herramientas que permiten presentar de manera más atractiva los productos, por ejemplo: Photoshop, Canva, Snapseep, Vsco, Camera, entre otras.               
           .col-lg-4
             img.img-t.img-a.mt-2.yoyo1(src='@/assets/ilustraciones/img75.svg', alt='')
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Publicidad display")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Publicidad <i>display</i>")
         .row.justify-content-center.align-items-center
           .col-lg-8
-            h4 Publicidad display
+            h4 Publicidad <i>display</i>
             p Es un tipo de anuncio digital que se ve en los diferentes sitios web que visitamos y llega específicamente a los clientes según las tendencias y gustos que se manifiestan en las búsquedas en internet.                
           .col-lg-4
             img.img-t.img-a.mt-2.yoyo1(src='@/assets/ilustraciones/img76.svg', alt='')                                                

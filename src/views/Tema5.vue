@@ -7,16 +7,16 @@
         span 5
       h1 #[i Marketing] digital
 
-    p(data-aos="fade-down") Según Pascual (2015), es un conjunto de técnicas de marketing basadas en los medios digitales que puede utilizar campañas masivas o individuales de publicidad.
+    p(data-aos="fade-down") Según Pascual (2015), es un conjunto de técnicas de #[i marketing] basadas en los medios digitales que puede utilizar campañas masivas o individuales de publicidad.
 
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Vukk_lp4dO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
-    .BorTit.mt-5(data-aos="fade-left") #[b Figura 2] <br> <i> Diferencias entre el marketing tradicional y el marketing digital</i>
+    .BorTit.mt-5(data-aos="fade-left") #[b Figura 2] <br> <i> Diferencias entre el #[i marketing] tradicional y el #[i marketing] digital</i>
     .row.justify-content-center.align-items-stretch.mt-3(data-aos="zoom-in")
       .col-lg-5.img-col-bg-1.p-3.my-3
-        h4.text-center.my-3 Marketing Tradicional
+        h4.text-center.my-3 #[i Marketing] Tradicional
         .row.justify-content-center.align-items-center(data-aos="slide-right")
           .col-lg-10.img-col-bg-3.p-3
             p.text-center La comunicación es de una sola vía
@@ -24,7 +24,7 @@
 
         .row.justify-content-center.align-items-center.mt-3(data-aos="slide-right")
           .col-lg-10.img-col-bg-3.p-3
-            p.text-center Los consumidores son buscados: prensa, tv, radio, etc
+            p.text-center Los consumidores son buscados: prensa, tv., radio, etc.
             img.img-t.img-a.mt-2.yoyo1(src='@/assets/ilustraciones/img61.svg', alt='')
 
         .row.justify-content-center.align-items-center.mt-3.mb-4(data-aos="slide-right")
@@ -33,7 +33,7 @@
             img.img-t.img-a.mt-2.yoyo1(src='@/assets/ilustraciones/img63.svg', alt='')                        
 
       .col-lg-5.img-col-bg-2.p-3.my-3
-        h4.text-center.my-3 Marketing Digital
+        h4.text-center.my-3 #[i Marketing] Digital
         .row.justify-content-center.align-items-center(data-aos="slide-left")
           .col-lg-10.img-col-bg-3.p-3
             p.text-center La comunicación es interactiva y bidireccional
@@ -41,7 +41,7 @@
 
         .row.justify-content-center.align-items-center.mt-3(data-aos="slide-left")
           .col-lg-10.img-col-bg-3.p-3
-            p.text-center Los consumidores se dirigen al comercio on-line por medios digitales
+            p.text-center Los consumidores se dirigen al comercio #[i on-line] por medios digitales
             img.img-t.img-a.mt-2.yoyo1(src='@/assets/ilustraciones/img62.svg', alt='')
 
         .row.justify-content-center.align-items-center.mt-3.mb-4(data-aos="slide-left")
@@ -52,11 +52,11 @@
       .col-lg-10
         figcaption Nota. Tomada de Pascual (2015)
 
-    p(data-aos="fade-down").mt-5 Como se puede observar, el marketing tradicional es realizado de forma masiva y no individual, razón por la cual es difícil medir su impacto, a diferencia del marketing digital que analiza las necesidades de los consumidores y los segmenta según sus características, para que la estrategia o medio de comunicación sea efectiva y cause mayor impacto.
+    p(data-aos="fade-down").mt-5 Como se puede observar, el #[i marketing] tradicional es realizado de forma masiva y no individual, razón por la cual es difícil medir su impacto, a diferencia del #[i marketing] digital que analiza las necesidades de los consumidores y los segmenta según sus características, para que la estrategia o medio de comunicación sea efectiva y cause mayor impacto.
 
     p(data-aos="fade-down") #[b Características del #[i marketing] digital]
 
-    p(data-aos="fade-down") Algunas de las cualidades del Marketing digital son las siguientes:    
+    p(data-aos="fade-down") Algunas de las cualidades del #[i marketing] digital son las siguientes:    
 
     .row.justify-content-center.align-items-center.img-col-bg-4.mt-3.px-5.pt-5(data-aos="zoom-in")
       .col-lg-4.border-col-card
@@ -76,7 +76,7 @@
         .row.justify-content-center.align-items-center.img-col-bg-3.p-3(data-aos="fade-left")
           .col-lg-10      
             img.img-t.my-2(src='@/assets/ilustraciones/img67.svg', alt='')
-            p #[b Mayor rentabilidad], ya que con una pequeña inversión se obtiene mejores resultados que con el marketing tradicional.
+            p #[b Mayor rentabilidad], ya que con una pequeña inversión se obtienen mejores resultados que con el #[i marketing] tradicional.
 
         .row.justify-content-center.align-items-center.mt-5.img-col-bg-3.p-3(data-aos="fade-left")
           .col-lg-10      
@@ -96,8 +96,8 @@
             img.img-t.my-2(src='@/assets/ilustraciones/img70.svg', alt='')
             p #[b Expansión de mercados], logrando captar nuevos clientes en distintos lugares del mundo. 
 
-    h4(data-aos="fade-right").mt-5 Pasos de un plan de marketing digital
-    p(data-aos="fade-down") Para llevar a cabo un plan de marketing se deben de realizar una serie de actividades sistemáticas (figura 3).
+    h4(data-aos="fade-right").mt-5 Pasos de un plan de #[i marketing] digital
+    p(data-aos="fade-down") Para llevar a cabo un plan de #[i marketing] se debe realizar una serie de actividades sistemáticas (figura 3).
 
     .BorTit.mt-5(data-aos="fade-left") #[b Figura 3] <br> <i>Pasos en la elaboración de un plan de marketing</i>
     img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img71.svg', alt='')
