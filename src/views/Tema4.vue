@@ -16,10 +16,19 @@
           SlyderA
             .row.justify-content-center.align-items-center
               .col-lg-10.d-none.d-lg-block
-                img.img-t.img-a.yoyo1(src='@/assets/ilustraciones/img39.svg', alt='')
+                img.img-t.img-a.yoyo1(src='@/assets/ilustraciones/img39.png', alt='')
                 .row.justify-content-center.align-items-center.my-4
                   .col-lg-12.p-color-1.p-3
                     p.mt-4 #[b Nombre.] Muchas veces elegir el nombre adecuado resulta ser un reto grande, por lo que se aconseja pensar en algo que represente a la empresa y que la haga diferente a las demás; en algunas ocasiones va acompañado de un eslogan.
+
+            .row.justify-content-center.align-items-center
+              .col-lg-10.d-none.d-lg-block
+                img.img-t.img-a.yoyo1(src='@/assets/ilustraciones/img39_1.png', alt='')
+                .row.justify-content-center.align-items-center.my-4
+                  .col-lg-12.p-color-1.p-3
+                    p.mt-4 #[b Logotipo de la marca.] Es un logo que identifique la empresa, se podría decir que es más importante que el nombre, ya que de por sí para la mente humana se le hace más fácil recordar imágenes que nombres.
+                    p A la hora de realizar un logo debemos tener en cuenta lo siguiente: a que público va dirigido teniendo en cuenta el sexo, edad y el tipo de población, si es algo serio o divertido para usar colores llamativos y, por último, si es algo exclusivo con el fin de diseñar algo que transmita elegancia.
+                    
 
             .row.justify-content-center.align-items-center
               .col-lg-10.d-none.d-lg-block
@@ -71,49 +80,54 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
-        img.img-t.img-a(src='@/assets/ilustraciones/img39.svg', alt='')
+        img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img39.png', alt='')
       .col-8.d-block.d-lg-none.mt-5 
         p #[b Nombre.] Muchas veces elegir el nombre adecuado resulta ser un reto grande, por lo que se aconseja pensar en algo que represente a la empresa y que la haga diferente a las demás; en algunas ocasiones va acompañado de un eslogan.
-
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
-        img.img-t.img-a(src='@/assets/ilustraciones/img40.svg', alt='')
+        img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img39_1.png', alt='')
+      .col-8.d-block.d-lg-none.mt-5 
+        p #[b Logotipo de la marca.] Es un logo que identifique la empresa, se podría decir que es más importante que el nombre, ya que de por sí para la mente humana se le hace más fácil recordar imágenes que nombres.
+        p A la hora de realizar un logo debemos tener en cuenta lo siguiente: a que público va dirigido teniendo en cuenta el sexo, edad y el tipo de población, si es algo serio o divertido para usar colores llamativos y, por último, si es algo exclusivo con el fin de diseñar algo que transmita elegancia. 
+    .row.justify-content-center.align-items-center(data-aos="fade-down")
+      .col-4.d-block.d-lg-none.mt-5
+        img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img40.svg', alt='')
       .col-8.d-block.d-lg-none.mt-5 
         p #[b Tipografía.] Es importante que el estilo de la letra sea atractivo y coherente, que sea claro y fácil de leer.  
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
-        img.img-t.img-a(src='@/assets/ilustraciones/img41.svg', alt='')
+        img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img41.svg', alt='')
       .col-8.d-block.d-lg-none.mt-5 
         p #[b Colores.] A la hora de escoger los colores debemos ser relevantes, que impacten, que produzcan emociones y deben tener expresiones de personalidad. 
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
-        img.img-t.img-a(src='@/assets/ilustraciones/img42.svg', alt='')
+        img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img42.svg', alt='')
       .col-8.d-block.d-lg-none.mt-5 
         p #[b Imágenes que evoquen la marca.] Las imágenes e ilustraciones que se usen deben ser coherentes con el resto de información.  
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
-        img.img-t.img-a(src='@/assets/ilustraciones/img43.svg', alt='')
+        img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img43.svg', alt='')
       .col-8.d-block.d-lg-none.mt-5 
         p #[b Voz y tono.] Nos referimos a la manera de expresar los mensajes a la hora de referirnos al público. 
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
-        img.img-t.img-a(src='@/assets/ilustraciones/img44.svg', alt='')
+        img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img44.svg', alt='')
       .col-8.d-block.d-lg-none.mt-5 
         p #[b Página web.] El uso de la web y las redes sociales permiten visualizaciones más rápidas y eficientes. 
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
-        img.img-t.img-a(src='@/assets/ilustraciones/img45_1.svg', alt='')
+        img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img45_1.svg', alt='')
       .col-8.d-block.d-lg-none.mt-5 
         p #[b Papelería corporativa.] Toda información impresa como los #[i flyer], folletos y #[i bruchures].   
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
-        img.img-t.img-a(src='@/assets/ilustraciones/img46.svg', alt='')
+        img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img46.svg', alt='')
       .col-8.d-block.d-lg-none.mt-5 
         p #[b La señalización.] Es la decoración que se hace en la fachada cuando hablamos de locales comerciales.
         
