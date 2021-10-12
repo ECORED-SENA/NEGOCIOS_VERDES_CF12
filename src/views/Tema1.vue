@@ -241,7 +241,7 @@
           a(href='#slide4')
             img.beat.beat-1(src='@/assets/ilustraciones/img18.svg')
 
-
+    figcaption.mt-3 Nota. Tomada de Duarte (s.f.)
 
 </template>
 
