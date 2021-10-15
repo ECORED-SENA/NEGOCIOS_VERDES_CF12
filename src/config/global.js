@@ -99,7 +99,7 @@ export default {
         nombreRuta: 'tema7',
         icono: 'far fa-file-alt',
         numero: '7',
-        titulo: '<i>Social media marketing</i> (mercadeo redes sociales)',
+        titulo: '<i>Social media marketing</i> (mercadeo en redes sociales)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -168,7 +168,7 @@ export default {
     },
     {
       referencia:
-        'Duarte, N. (s.f). Portafolio de servicios de la organización. Web Colegios. ',
+        'Duarte, N. (s.f.). Portafolio de servicios de la organización. Web Colegios. ',
       link: 'https://www.webcolegios.com/file/1b983a.pdf',
     },
     {
@@ -198,7 +198,7 @@ export default {
     {
       referencia:
         'Santos, D. (2020). Social Media Marketing: todo lo que debes saber para implementarlo en tu empresa. ',
-      link: 'https://blog.hubspot.es/marketing/social-media-marketingv',
+      link: 'https://blog.hubspot.es/marketing/social-media-marketing',
     },
   ],
   glosario: [
@@ -297,7 +297,7 @@ export default {
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional - Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Carlos Julián Ramírez Benítez',

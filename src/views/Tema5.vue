@@ -13,7 +13,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Vukk_lp4dO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
-    .BorTit.mt-5(data-aos="fade-left") #[b Figura 2] <br> <i> Diferencias entre el #[i marketing] tradicional y el #[i marketing] digital</i>
+    .BorTit.mt-5(data-aos="fade-left") #[b Figura 2] <br>  Diferencias entre el <i> marketing</i> tradicional y el <i> marketing</i> digital
     .row.justify-content-center.align-items-stretch.mt-3(data-aos="zoom-in")
       .col-lg-5.img-col-bg-1.p-3.my-3
         h4.text-center.my-3 #[i Marketing] Tradicional

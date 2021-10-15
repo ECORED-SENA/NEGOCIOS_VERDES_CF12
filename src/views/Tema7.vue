@@ -5,7 +5,7 @@
     .titulo-principal(data-aos="fade-left")
       .titulo-principal__numero
         span 7
-      h1 #[i Social media marketing] (mercadeo redes sociales)
+      h1 #[i Social media marketing] (mercadeo en redes sociales)
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
@@ -52,11 +52,11 @@
             td Generación X y #[i millennials]
             td.c2 Principalmente #[i millennials]            
             td Principalmente #[i millennials]           
-            td.c2 #[i millennials], seguidos de cerca por la generación Z           
+            td.c2 #[i Millennials], seguidos de cerca por la generación Z           
             td Principalmente la generación Z 
           tr
             td.c1 #[b Impacto]
-            td B2C.
+            td B2C
             td.c2 B2B y B2C          
             td B2C           
             td.c2 B2C           
@@ -68,7 +68,7 @@
             td Medios de aspecto natural, detrás de escena y contenido generado por el usuario; publicidad.
             td.c2 Conocimiento de la marca; entretenimiento y videos instructivos.           
             td Conocimiento de la marca; publicidad.
-    p(data-aos="fade-down").mt-5 Es importante tener en cuenta la información de la tabla 2 a la hora de crear o implementar una estrategia de marketing, una vez se tenga definido a qué tipo de clientes se quiere llegar, se podrá elegir de manera acertada el mejor canal o red social para entrar en contacto directo con los clientes y lograr el objetivo trazado inicialmente.
+    p(data-aos="fade-down").mt-5 Es importante tener en cuenta la información de la tabla 2 a la hora de crear o implementar una estrategia de #[i marketing], una vez se tenga definido a qué tipo de clientes se quiere llegar, se podrá elegir de manera acertada el mejor canal o red social para entrar en contacto directo con los clientes y lograr el objetivo trazado inicialmente.
     separador
     #t_7_1.titulo-segundo(data-aos="fade-right")
       h2 7.1  Beneficios del #[i social media marketing] 

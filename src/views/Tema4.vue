@@ -27,7 +27,7 @@
                 .row.justify-content-center.align-items-center.my-4
                   .col-lg-12.p-color-1.p-3
                     p.mt-4 #[b Logotipo de la marca.] Es un logo que identifique la empresa, se podría decir que es más importante que el nombre, ya que de por sí para la mente humana se le hace más fácil recordar imágenes que nombres.
-                    p A la hora de realizar un logo debemos tener en cuenta lo siguiente: a que público va dirigido teniendo en cuenta el sexo, edad y el tipo de población, si es algo serio o divertido para usar colores llamativos y, por último, si es algo exclusivo con el fin de diseñar algo que transmita elegancia.
+                    p A la hora de realizar un logo debemos tener en cuenta lo siguiente: a qué público va dirigido teniendo en cuenta el sexo, edad y el tipo de población, si es algo serio o divertido para usar colores llamativos y, por último, si es algo exclusivo con el fin de diseñar algo que transmita elegancia.
                     
 
             .row.justify-content-center.align-items-center
@@ -88,7 +88,7 @@
         img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img39_1.png', alt='')
       .col-8.d-block.d-lg-none.mt-5 
         p #[b Logotipo de la marca.] Es un logo que identifique la empresa, se podría decir que es más importante que el nombre, ya que de por sí para la mente humana se le hace más fácil recordar imágenes que nombres.
-        p A la hora de realizar un logo debemos tener en cuenta lo siguiente: a que público va dirigido teniendo en cuenta el sexo, edad y el tipo de población, si es algo serio o divertido para usar colores llamativos y, por último, si es algo exclusivo con el fin de diseñar algo que transmita elegancia. 
+        p A la hora de realizar un logo debemos tener en cuenta lo siguiente: a qué público va dirigido teniendo en cuenta el sexo, edad y el tipo de población, si es algo serio o divertido para usar colores llamativos y, por último, si es algo exclusivo con el fin de diseñar algo que transmita elegancia. 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-4.d-block.d-lg-none.mt-5
         img.img-t.img-a.yoyo(src='@/assets/ilustraciones/img40.svg', alt='')

@@ -20,7 +20,7 @@
     h4(data-aos="fade-right").mt-5 Tipos de comercio electrónico      
     p(data-aos="fade-down") En la siguiente tabla se evidencian los diferentes tipos de comercio electrónico. 
 
-    .BorTit.mt-5(data-aos="fade-left") #[b Tabla 3] <br> Estadísticas y aspectos importantes de las redes sociales.
+    .BorTit.mt-5(data-aos="fade-left") #[b Tabla 3] <br> Tipos de comercio electrónico
     .tabla-a.mt-3(data-aos="fade-left")    
       table
         caption Nota. Tomada de Carazo (2016)

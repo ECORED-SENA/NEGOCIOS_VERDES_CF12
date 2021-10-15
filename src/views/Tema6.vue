@@ -38,7 +38,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             h4 Imágenes de calidad de tus productos
-            p “Una imagen vale más que mil palabras”, razón por la cual se debe cuidar la calidad de las imágenes de los productos, a la hora de vender se dice que todo entra por los ojos, existe gran variedad de aplicaciones y herramientas que permiten presentar de manera más atractiva los productos, por ejemplo: Photoshop, Canva, Snapseep, Vsco, Camera, entre otras.               
+            p “Una imagen vale más que mil palabras”, razón por la cual se debe cuidar la calidad de las imágenes de los productos, a la hora de vender se dice que todo entra por los ojos, existe gran variedad de aplicaciones y herramientas que permiten presentar de manera más atractiva los productos, por ejemplo: Photoshop, Canva, Snapseed, Vsco, Camera, entre otras.               
           .col-lg-4
             img.img-t.img-a.mt-2.yoyo1(src='@/assets/ilustraciones/img75.svg', alt='')
 

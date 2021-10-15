@@ -25,9 +25,9 @@
         .hr
       .col-lg-9.col-color-2.white-border(data-aos="fade-right")
         p.p-5.mb-0 Un buen portafolio debe tener 
-          span(style='background-color: #E5DEC1') #[b información directa] y,
-          span(style='background-color: #F7F5EC') sobre todo, causar impacto para sobresalir ante la competencia, además, se debe llegar al cliente de manera directa, incluyendo #[b precios] 
-          span(style='background-color: #E5DEC1') #[b atractivos y brindando claridad] a toda hora. 
+          span(style='background-color: #E5DEC1') #[b información directa] 
+          span(style='background-color: #F7F5EC')  y, sobre todo, causar impacto para sobresalir ante la competencia, además, se debe llegar al cliente de manera directa, incluyendo #[b precios]
+          span(style='background-color: #E5DEC1') #[b  atractivos y brindando claridad] a toda hora. 
           span(style='background-color: #F7F5EC') Por ser esta la carta de presentación de toda empresa, es primordial dejar un recordatorio a los clientes.
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-right")
