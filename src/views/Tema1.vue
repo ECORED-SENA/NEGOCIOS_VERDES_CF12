@@ -219,27 +219,27 @@
     .container-1.mt-5 
       ul.slides.d-none.d-lg-block
         li#slide4
-          img(src='@/assets/ilustraciones/img18.svg' alt='')
+          img(src='@/assets/ilustraciones/img18.png' alt='')
         li#slide2
-          img(src='@/assets/ilustraciones/img16.svg' alt='')
+          img(src='@/assets/ilustraciones/img16.png' alt='')
         li#slide3
-          img(src='@/assets/ilustraciones/img17.svg' alt='')
+          img(src='@/assets/ilustraciones/img17.png' alt='')
         li#slide1
-          img(src='@/assets/ilustraciones/img15.svg' alt='')
+          img(src='@/assets/ilustraciones/img15.png' alt='')
 
       ul.thumbnails.d-none.d-lg-block
         li.mb-3.mt-5
           a(href='#slide1')
-            img.beat.beat-1(src='@/assets/ilustraciones/img15.svg')
+            img.beat.beat-1(src='@/assets/ilustraciones/img15.png')
         li.my-4
           a(href='#slide2')
-            img.beat.beat-1(src='@/assets/ilustraciones/img16.svg')
+            img.beat.beat-1(src='@/assets/ilustraciones/img16.png')
         li.my-4
           a(href='#slide3')
-            img.beat.beat-1(src='@/assets/ilustraciones/img17.svg')
+            img.beat.beat-1(src='@/assets/ilustraciones/img17.png')
         li.my-4
           a(href='#slide4')
-            img.beat.beat-1(src='@/assets/ilustraciones/img18.svg')
+            img.beat.beat-1(src='@/assets/ilustraciones/img18.png')
 
     figcaption.mt-3 Nota. Tomada de Duarte (s.f.)
 
