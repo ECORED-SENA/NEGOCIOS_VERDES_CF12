@@ -132,7 +132,7 @@
       span(style='background-color: #E5DEC1') comerciales: 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/lWUFSgl8DUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: CF012_2.1_Tipos de campaña publicitaria.
     h4(data-aos="fade-right").mt-5 No comerciales
     p(data-aos="fade-down") Este tipo de comerciales promueven ideas y/o personas.      
