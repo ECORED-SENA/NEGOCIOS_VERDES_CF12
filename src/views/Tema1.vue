@@ -207,13 +207,13 @@
     .BorTit.mt-5(data-aos="fade-left") #[b Figura 1] <br> Ejemplo de portafolio de servicios
     .row.justify-content-center.align-items-center
       .col-12.d-block.d-lg-none
-        img.img-t.img-a.mt-5(data-aos="fade-right")(src='@/assets/ilustraciones/img15.svg', alt='')
+        img.img-t.img-a.mt-5(data-aos="fade-right")(src='@/assets/ilustraciones/img15.png', alt='')
       .col-12.d-block.d-lg-none   
-        img.img-t.img-a.mt-5(data-aos="fade-right")(src='@/assets/ilustraciones/img16.svg', alt='')
+        img.img-t.img-a.mt-5(data-aos="fade-right")(src='@/assets/ilustraciones/img16.png', alt='')
       .col-12.d-block.d-lg-none
-        img.img-t.img-a.mt-5(data-aos="fade-right")(src='@/assets/ilustraciones/img17.svg', alt='')
+        img.img-t.img-a.mt-5(data-aos="fade-right")(src='@/assets/ilustraciones/img17.png', alt='')
       .col-12.d-block.d-lg-none   
-        img.img-t.img-a.mt-5(data-aos="fade-right")(src='@/assets/ilustraciones/img18.svg', alt='')        
+        img.img-t.img-a.mt-5(data-aos="fade-right")(src='@/assets/ilustraciones/img18.png', alt='')        
 
 
     .container-1.mt-5 
