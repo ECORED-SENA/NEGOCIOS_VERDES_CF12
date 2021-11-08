@@ -99,7 +99,7 @@
     h4(data-aos="fade-right").mt-5 Pasos de un plan de #[i marketing] digital
     p(data-aos="fade-down") Para llevar a cabo un plan de #[i marketing] se debe realizar una serie de actividades sistemáticas (figura 3).
 
-    .BorTit.mt-5(data-aos="fade-left") #[b Figura 3] <br> <i>Pasos en la elaboración de un plan de marketing</i>
+    .BorTit.mt-5(data-aos="fade-left") #[b Figura 3] <br> Pasos en la elaboración de un plan de <i>marketing</i>
     img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img71.svg', alt='')
     figcaption(data-aos="zoom-in").mt-3 Nota. Tomada de Pascual (2015)
 

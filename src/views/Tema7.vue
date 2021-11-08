@@ -14,10 +14,11 @@
       .bloque-texto-g__texto.p-5
         p.mb-0 El #[i social media marketing] es la acción de crear contenido para promocionar un negocio y productos en varias redes sociales como Facebook, Instagram y Twitter. El material creado debe ser único y adaptarse a la plataforma en la que se comparte para ayudar a impulsar las conversiones y aumentar el conocimiento de marca (Santos, 2020).
 
-    h4(data-aos="fade-right").mt-5 Redes Sociales
+    h4(data-aos="fade-right").mt-5 Redes sociales
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ePCu8Jro_K8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        
 
     p(data-aos="fade-down").mt-5 En la actualidad es una de las estrategias de #[i marketing] digital más usadas a nivel mundial obteniendo resultados positivos en corto tiempo con una inversión mínima, pues logra llegar a un gran número de posibles clientes potenciales de forma masiva, pero siempre teniendo en cuenta los gustos y preferencias de estos. 
 

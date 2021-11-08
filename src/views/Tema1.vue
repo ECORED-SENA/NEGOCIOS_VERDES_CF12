@@ -44,7 +44,6 @@
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/hETivH98gc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: CF012_1.1_Clasificación de los portafolios.
 
   
     separador
